@@ -2,7 +2,7 @@
 
 # bootstrap 4 fullscreen carousel with carousel images as background.
 
-You can use this as this code for your oen projects just make sure that all the files are linked properly.
+You can use this as this code for your own projects just make sure that all the files are linked properly.
 
 # jQuery v3.3.1
 # Bootstrap v4.2.1
